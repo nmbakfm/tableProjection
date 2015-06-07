@@ -1,0 +1,47 @@
+<settings>
+    <movieSize width="4200" height="940" />
+    <calibrations>
+        <calibration>
+            <orgVertices>
+                <vertex x="0" y="0" />
+                <vertex x="0" y="940" />
+                <vertex x="1600" y="940" />
+                <vertex x="1600" y="0" />
+            </orgVertices>
+            <targetVertices>
+                <vertex x="0" y="0" />
+                <vertex x="0" y="235" />
+                <vertex x="400" y="235" />
+                <vertex x="400" y="0" />
+            </targetVertices>
+        </calibration>
+        <calibration>
+            <orgVertices>
+                <vertex x="1600" y="0" />
+                <vertex x="1600" y="940" />
+                <vertex x="3200" y="940" />
+                <vertex x="3200" y="0" />
+            </orgVertices>
+            <targetVertices>
+                <vertex x="450" y="0" />
+                <vertex x="450" y="235" />
+                <vertex x="850" y="235" />
+                <vertex x="850" y="0" />
+            </targetVertices>
+        </calibration>
+        <calibration>
+            <orgVertices>
+                <vertex x="3200" y="0" />
+                <vertex x="3200" y="940" />
+                <vertex x="4800" y="940" />
+                <vertex x="4800" y="0" />
+            </orgVertices>
+            <targetVertices>
+                <vertex x="900" y="0" />
+                <vertex x="900" y="235" />
+                <vertex x="1300" y="235" />
+                <vertex x="1300" y="0" />
+            </targetVertices>
+        </calibration>
+    <calibrations>
+</settings>
